@@ -3,4 +3,4 @@ Text that is not a quote
 
 > Text that is a quote
 
-  [iamge](https://myoctocat.com/assets/images/base-octocat.svg)
+![iamge](https://myoctocat.com/assets/images/base-octocat.svg)
